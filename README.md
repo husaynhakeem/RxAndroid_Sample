@@ -5,8 +5,12 @@ Sample Android application used to practice RxAndroid (and RxJava). This applica
 
 # Libraries used in this App
 
-- 
 - [RxJava & RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - [Retrofit 2](http://square.github.io/retrofit/)
 - [ButterKnife](https://github.com/JakeWharton/butterknife)
 - [Gson](https://github.com/google/gson)
+
+
+# Developed by
+
+- Husayn Hakeem - [husaynhakeem@gmail.com](husaynhakeem@gmail.com)
