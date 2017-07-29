@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".discovery.PostsActivity"
-            android:screenOrientation="portrait">
+            android:configChanges="orientation|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name=".detail.DetailActivity"
-            android:screenOrientation="portrait" />
+            android:configChanges="orientation|screenSize" />
     </application>
 
 </manifest>
